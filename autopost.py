@@ -2,8 +2,8 @@ import requests
 import random
 import time
 
-page_id = "103806035233700"
-access_token = "EAAr9nyC26ggBAFADFCIynFAeBY2pxFdBxHobM2Fv23BvjOZA0SIO4BZCRZBJRypA2xcmshlWkXGaZCMAMwUtOdZBQbXZA6qYRkkt2EsJNRg8aPBm2FHqCSQvZBcryuXGxPfJn4ne4GZBiNLTp7mmN9oAYHRnyjZAFsUlZCCtPFrXg9kJ4xw992vV8BS8CREMQfDXqZAulaXE5bZCNwZDZD"
+page_id = "page id"
+access_token = "access token"
 
 msg_list = [
     "#SavePalestine",
